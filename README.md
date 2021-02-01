@@ -4,7 +4,7 @@
 **KeshavChawla/keshavchawla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm Keshav, a second-year Computing and Financial Management (CFM) student at the Univeristy of Waterloo.
+I'm Keshav, a second-year Computing and Financial Management (CFM) student at the University of Waterloo.
 
 - 👨🏽‍💻 Developer Intern at [Jam3](https://www.jam3.com/) (Winter 2021 Co-op)
 - 🧮 Previously an Online Learning Assistant with the Faculty of Mathematics (Spring 2020 Co-op)
