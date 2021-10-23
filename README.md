@@ -6,7 +6,7 @@
 
 I'm Keshav, a second-year Computing and Financial Management (CFM) student at the University of Waterloo.
 
-- 👨🏽‍💻 Developer Intern at [Jam3](https://www.jam3.com/) (Winter 2021 Co-op)
+- 👨🏽‍💻 Previous Developer Intern at [Jam3](https://www.jam3.com/) (Winter 2021 Co-op)
 - 🧮 Previously an Online Learning Assistant with the Faculty of Mathematics (Spring 2020 Co-op)
 - 🌱 Learning about sequential programming and corporate finance
 - 💬 Writing my thoughts away at [blog.keshavchawla.com](https://blog.keshavchawla.com/)
