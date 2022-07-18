@@ -6,7 +6,8 @@
 
 I'm Keshav, a third-year Computing and Financial Management (CFM) student at the University of Waterloo.
 
-- 💻 Previous JavaScript Developer at [Axonify](https://axonify.com/) (Fall 2021 Co-op)
+- 💻 Currently an Associate Web Developer at [Wattpad](https://wattpad.com/) (Spring 2022 Co-op)
+- 📱 Previous JavaScript Developer at [Axonify](https://axonify.com/) (Fall 2021 Co-op)
 - 👨🏽‍💻 Also Previous Developer Intern at [Jam3](https://www.jam3.com/) (Winter 2021 Co-op)
 - 🧮 Former Online Learning Assistant with the Faculty of Mathematics (Spring 2020 Co-op)
 - 🌱 Learning about sequential programming and corporate finance
