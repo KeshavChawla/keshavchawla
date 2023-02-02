@@ -6,7 +6,7 @@
 
 I'm Keshav, a fourth-year Computing and Financial Management (CFM) student at the University of Waterloo.
 
-- 💻 I'm an Software Engineering Intern (Associate Web Dev) at [Wattpad](https://wattpad.com/) (Spring 2022 Co-op)
+- 💻 I'm a former Software Engineering Intern (Associate Web Dev) at [Wattpad](https://wattpad.com/) (Spring 2022 Co-op)
 - 📱 Previous Software Developer Intern (JavaScript) at [Axonify](https://axonify.com/) (Fall 2021 Co-op)
 - 👨🏽‍💻 Also Previous Developer Intern at [Jam3](https://www.jam3.com/) (Winter 2021 Co-op)
 - 🧮 Former Online Learning Assistant with the Faculty of Mathematics (Spring 2020 Co-op)
