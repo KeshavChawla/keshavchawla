@@ -5,15 +5,15 @@
 -->
 
 I'm Keshav, a fourth-year Computing and Financial Management (CFM) student at the University of Waterloo.
-
-- 💻 I'm a former Software Engineering Intern (Associate Web Dev) at [Wattpad](https://wattpad.com/) (Spring 2022 Co-op)
+- 📊  I'm a current Software Engineering Intern at [Bloomberg](https://www.bloomberg.com/company/) (Spring 2023 & Winter 2023 Co-op)
+- 💻 Former Software Engineering Intern (Associate Web Dev) at [Wattpad](https://wattpad.com/) (Spring 2022 Co-op)
 - 📱 Previous Software Developer Intern (JavaScript) at [Axonify](https://axonify.com/) (Fall 2021 Co-op)
 - 👨🏽‍💻 Also Previous Developer Intern at [Jam3](https://www.jam3.com/) (Winter 2021 Co-op)
 - 🧮 Former Online Learning Assistant with the Faculty of Mathematics (Spring 2020 Co-op)
 - 🌱 Learning about sequential programming and corporate finance
 - 🪞 [MagicMirror2 Builder](https://medium.com/@keshavchawla/a-step-by-step-guide-to-build-your-own-smart-mirror-543cebbf135f)
 - 💵 Previous funding council member of the [Mathematics Endowment Fund (MEF)](https://uwaterloo.ca/math-endowment-fund/) (Fall 2019 & Spring 2020)
-- 📊 Previous Junior Analyst/Senior Analyst and now Junior Portfolio Manager of the [The Student Investment Fund](https://uwaterloo.ca/school-of-accounting-and-finance/student-investment-fund) (Spring 2021)
+- 📈 Previous Junior Analyst/Senior Analyst and now Junior Portfolio Manager of the [The Student Investment Fund](https://uwaterloo.ca/school-of-accounting-and-finance/student-investment-fund) (Spring 2021)
 - 🖥 [keshavchawla.com](https://keshavchawla.com/)
 
 
@@ -26,6 +26,3 @@ I'm Keshav, a fourth-year Computing and Financial Management (CFM) student at th
 
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Remix" src="https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white"/>
 <img alt="NextJS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=KeshavChawla)
